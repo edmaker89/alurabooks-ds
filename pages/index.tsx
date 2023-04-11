@@ -1,7 +1,8 @@
 import React from 'react'
+import { AbBotao } from '../src/components/AbBotao'
 
 export default function HomePage() {
   return (
-    <div>Home Page</div>
+   < AbBotao/>
   )
 }
